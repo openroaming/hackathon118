@@ -23,7 +23,7 @@ OpenRoaming is being discussed as a solution to some of the use cases considered
 
 NOTE1: Hackathon participants wanting to be issued a test certificate for use in mutually authenticated OpenRoaming signalling exchanges, should email <pki@wballiance.com> with the subject “IETF Hackathon Test Certificate Request”.
 
-NOTE2: The OpenRoaming PKI Certificate Policy and WBA issuing I-CA require specific subject distinguished name values. An example certificate signing request configuration that meets the OpenRoaming Certificate Policy is available [here](https://github.com/wireless-broadband-alliance/openroaming-config/blob/main/OpenRoaming CSR config.cfg)
+NOTE2: The OpenRoaming PKI Certificate Policy and WBA issuing I-CA require specific subject distinguished name values. An example certificate signing request configuration that meets the OpenRoaming Certificate Policy is available [here](https://github.com/wireless-broadband-alliance/openroaming-config/blob/main/OpenRoaming%20CSR%20config.cfg)
 
 ### Useful resources
 How to enable OpenRoaming on the MikroTik series of devices (by Warren Kumari, based on his setup for IETF 117): https://wkumari.dev/2023/10/16/mikrotik-openroaming
