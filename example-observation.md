@@ -11,6 +11,7 @@
 | Device | (Some Device Type) |
 | **RADIUS**  | **Access-Request** |
 | User-Name | (recorded user-name) |
+| Calling-Station-Id | (recorded mac address) |
 | **RADIUS**  | **Access-Accept** |
 | User-Name | (recorded user-name) |
 | Class | (recorded Class attribute(s)) |
@@ -19,6 +20,7 @@
 | Device | (Some Device Type) |
 | **RADIUS**  | **Access-Request** |
 | User-Name | (recorded user-name) |
+| Calling-Station-Id | (recorded mac address) |
 | **RADIUS**  | **Access-Accept** |
 | User-Name | (recorded user-name) |
 | Class | (recorded Class attribute(s)) |
@@ -36,6 +38,7 @@
 | NAS Vendor | (Some Vendor Name) |
 | **RADIUS**  | **Access-Request** |
 | User-Name | (recorded user-name) |
+| Calling-Station-Id | (recorded mac address) |
 | **RADIUS**  | **Access-Accept** |
 | User-Name | (recorded user-name) |
 | Class | (recorded Class attribute(s)) |
@@ -44,6 +47,7 @@
 | NAS Vendor | (Some Vendor Name) |
 | **RADIUS**  | **Access-Request** |
 | User-Name | (recorded user-name) |
+| Calling-Station-Id | (recorded mac address) |
 | **RADIUS**  | **Access-Accept** |
 | User-Name | (recorded user-name) |
 | Class | (recorded Class attribute(s)) |
@@ -61,6 +65,7 @@
 | Event-Time  | 2023.11.04T10:30 |
 | **RADIUS**  | **Access-Request** |
 | User-Name | (recorded user-name) |
+| Calling-Station-Id | (recorded mac address) |
 | **RADIUS**  | **Access-Accept** |
 | User-Name | (recorded user-name) |
 | Class | (recorded Class attribute(s)) |
@@ -69,6 +74,7 @@
 | Event-Time  | 2023.11.05T10:30 |
 | **RADIUS**  | **Access-Request** |
 | User-Name | (recorded user-name) |
+| Calling-Station-Id | (recorded mac address) |
 | **RADIUS**  | **Access-Accept** |
 | User-Name | (recorded user-name) |
 | Class | (recorded Class attribute(s)) |
