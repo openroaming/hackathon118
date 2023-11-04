@@ -1,0 +1,191 @@
+04 Nov 2023 13:58:47
+  Access-Request
+  User-Name: anonymous@eu-google.openroaming.net,
+  Calling-Station-Id: 26-65-3B-FF-6F-46
+
+  Access-Accept:
+  User-Name: 6c8ca96e-1079-4f66-82ab-1deddf4d12f1@eu-google.openroaming.net
+  CUI: bart.brinckman@gmail.com
+
+04 Nov 2023 13:39:49
+  Access-Request
+  User-Name: 2NP0z9iN0l+pZ7gcUkO55mn@wlan.mnc280.mcc310.3gppnetwork.org
+  Calling-Station-Id: 6A-11-48-20-FB-AF
+
+  Access-Accept:
+  User-Name: 2NP0z9iN0l+pZ7gcUkO55mn@wlan.mnc280.mcc310.3gppnetwork.org
+  CUI: 6c21d5a2e64f72d31046ea8cbe5b7a5bc66c808f
+  Class: Diameter/sna-0009.rmr.corp.wayport.net;1699085222;220806;0310280081565946@wlan.mnc280.mcc310.3gppnetwork.org;sna-0009.rmr.corp.wayport.net
+  Class: fD/rgwx/aai:16777264
+  Class: BIC:3EF57E9A2279C8233BCE0B0D7A28D507193C1F33738ADC73
+
+04 Nov 2023 13:40:52
+  Access-Request:
+  User-Name: 2NSs2z3uFn/obnpvLokX79D@wlan.mnc280.mcc310.3gppnetwork.org
+  Calling-Station-Id: 14-F2-87-BE-90-28
+
+  Access-Accept:
+  User-Name: 2NSs2z3uFn/obnpvLokX79D@wlan.mnc280.mcc310.3gppnetwork.org
+  CUI: dfdace835f396d0f8a98c6b4110169ea79e55212
+  Class: Diameter/dal-0007.rmr.corp.wayport.net;1699085222;187140;0310280055480571@wlan.mnc280.mcc310.3gppnetwork.org;dal-0007.rmr.corp.wayport.net
+  Class: fD/rgwx/aai:16777264
+  Class: BIC:6C74E4A6CD71F6F710842824703E3E2796B94C6FE4C07ED2
+
+04 Nov 2023 13:41:21
+  Access-Request:
+  User-Name: anonymous@apple.openroaming.net
+  Calling-Station-Id: B6-96-3E-45-76-E1
+
+  Access-Accept:
+  User-Name: 4ce6d90b-7a5a-40e0-84a7-888faba2c0d4@apple.openroaming.net
+  CUI: 020cc1c0-a441-4e01-9f91-e3b65243f932@openroamingapple
+
+04 Nov 2023 13:41:50
+  Access-Request:
+  User-Name: 2M1e1x4ZRQ+x6oqD9nPABCJ@wlan.mnc280.mcc310.3gppnetwork.org
+  Calling-Station-Id: 4A-E4-B2-47-67-E1
+
+  Access-Accept:
+  User-Name: 2M1e1x4ZRQ+x6oqD9nPABCJ@wlan.mnc280.mcc310.3gppnetwork.org
+  CUI: 106cec7164d6dfe7966d25e9e08237e7323094e2
+  Class: Diameter/sna-0017.rmr.corp.wayport.net;1699085221;249534;0310280016122801@wlan.mnc280.mcc310.3gppnetwork.org;sna-0017.rmr.corp.wayport.net
+  Class: fD/rgwx/aai:16777264
+  Class: BIC:052B6450F4714B5F601762AC51549750A39C5F8879572341
+
+04 Nov 2023 13:41:51
+  User-Name: 2NNPaKkRzi7WB0KgZOoj6zr@wlan.mnc280.mcc310.3gppnetwork.org
+  Calling-Station-Id: C2-1D-6F-53-AA-B7
+
+  Access-Accept:
+  User-Name: 2NNPaKkRzi7WB0KgZOoj6zr@wlan.mnc280.mcc310.3gppnetwork.org
+  CUI: 35ab369110695ca47665af494adb753f5cef6c6f
+  Class: Diameter/dal-0008.rmr.corp.wayport.net;1699084863;232264;0310280011673546@wlan.mnc280.mcc310.3gppnetwork.org;dal-0008.rmr.corp.wayport.net
+  Class: fD/rgwx/aai:16777264
+  Class: BIC:047F957B6F22CB3BBC5E0D5DFB4AA448FF79FA967779DD96
+
+
+04 Nov 2023 14:21:51
+  Access-Request:
+  User-Name: 2MSh8sRxQpNe6MiFnpd48x5@wlan.mnc150.mcc310.3gppnetwork.org
+  Calling-Station-Id: FE-9B-38-A5-81-86
+
+  Access-Accept:
+  User-Name: 2MSh8sRxQpNe6MiFnpd48x5@wlan.mnc150.mcc310.3gppnetwork.org
+  Class: Diameter/sna-0009.rmr.corp.wayport.net;1699085222;280911;0310150700002275@wlan.mnc150.mcc310.3gppnetwork.org;sna-0009.rmr.corp.wayport.net
+  CUI: 4d106dd7c6cb09f4dad721c628f7f130fac331e7
+  Class: fD/rgwx/aai:16777264
+  Class: BIC:FD6949E6CD3876DE907BA3ADE237050D0071C42D839E8A27
+
+
+04 Nov 2023 14:44:31
+  Access-Request
+  User-Name: anonymous@idp.openroaming.net
+  Calling-Station-Id: 02-00-00-00-00-01
+
+  Access-Accept:
+  User-Name: testuser@idp.openroaming.net
+  CUI: testuser@idp.openroaming.net
+
+
+04 Nov 2023 15:16:31
+  Access-Request:
+  User-Name: anonymous@apple.openroaming.net
+  Calling-Station-Id: B6-96-3E-45-76-E1
+
+  Access-Accept:
+  User-Name: 4ce6d90b-7a5a-40e0-84a7-888faba2c0d4@apple.openroaming.net
+  CUI: 020cc1c0-a441-4e01-9f91-e3b65243f932@openroamingapple
+
+
+04 Nov 2023 15:17:36
+  Access-Request:
+  User-Name: anonymous@clus.openroaming.net
+  Calling-Station-Id: B0-BE-83-65-F4-F7
+
+  Access-Accept:
+  User-Name: testuser@clus.openroaming.net
+  CUI: testuser@clus.openroaming.net
+
+
+04 Nov 2023 15:23:43
+  Access-Request:
+  User-Name: anonymous@idp.openroaming.net
+  Calling-Station-Id: 02-00-00-00-00-01
+
+  Access-Accept:
+  User-Name: testuser@idp.openroaming.net
+  CUI: testuser@idp.openroaming.net
+
+
+04 Nov 2023 15:23:43
+  Access-Request:
+  User-Name: anonymous@idp.openroaming.net
+  Calling-Station-Id: 02-00-00-00-00-01
+
+  Access-Accept:
+  User-Name: testuser@idp.openroaming.net
+  CUI: testuser@idp.openroaming.net
+
+
+04 Nov 2023 15:25:27
+  Access-Request:
+  User-Name: anonymous@odyssys.net
+  Calling-Station-Id: A4-C3-F0-38-9B-31
+
+  Access-Accept:
+  User-Name: anonymous@odyssys.net
+  Class: GRT???*?S??k?^HO?+?_??7??ej??V??E?+B>i?Y:?=?i????k>?P@]?\r??
+
+04 Nov 2023 14:34:36
+  Access-Request:
+  User-Name: 2PLvi3e9pMxIQYiOPBsOpUB@wlan.mnc280.mcc310.3gppnetwork.org
+  Calling-Station-Id: 8E-55-61-FC-05-F5
+
+  Access-Accept:
+  User-Name: 2PLvi3e9pMxIQYiOPBsOpUB@wlan.mnc280.mcc310.3gppnetwork.org
+  CUI: cff21675013949d43a88065d65894ba353debfe8
+  Class: Diameter/sna-0019.rmr.corp.wayport.net;1699085643;277828;0310280010392040@wlan.mnc280.mcc310.3gppnetwork.org;sna-0019.rmr.corp.wayport.net
+  Class: fD/rgwx/aai:16777264
+  Class: BIC:18AFDBBB546D46095A0FE00F95D13D96AE8AA0285B343F78
+
+04 Nov 2023 15:14:38
+  Access-Request:
+  User-Name: 2P2NrdNP/Hgsys/u2tJHYCx@wlan.mnc280.mcc310.3gppnetwork.org
+  Calling-Station-Id: 5A-BE-B9-D5-96-66
+
+Access-Accept:
+  User-Name: 2P2NrdNP/Hgsys/u2tJHYCx@wlan.mnc280.mcc310.3gppnetwork.org
+  CUI: f6218f016079746bd65edecd6f514c3cc6c8969f
+  Class: Diameter/dal-0008.rmr.corp.wayport.net;1699084863;423044;0310280074532207@wlan.mnc280.mcc310.3gppnetwork.org;dal-0008.rmr.corp.wayport.net
+  Class: fD/rgwx/aai:16777264
+  Class: BIC:931082D5E1AD404995CF2FC98AD5545919057EC8DD94C495
+
+04 Nov 2023 15:15:52
+  Access-Request:
+  User-Name: 2OmKMcrK7NJvgoqzG3cBnzq@wlan.mnc280.mcc310.3gppnetwork.org
+  Calling-Station-Id: 4A-E4-B2-47-67-E1
+
+  Access-Accept:
+  User-Name: 2OmKMcrK7NJvgoqzG3cBnzq@wlan.mnc280.mcc310.3gppnetwork.org
+  CUI: 106cec7164d6dfe7966d25e9e08237e7323094e2
+  Class: Diameter/sna-0009.rmr.corp.wayport.net;1699085222;374932;0310280016122801@wlan.mnc280.mcc310.3gppnetwork.org;sna-0009.rmr.corp.wayport.net
+  Class: fD/rgwx/aai:16777264
+  Class: BIC:78FABA269324818FB0461313226D150F4D13F54644D3E560
+
+04 Nov 2023 15:16:31
+  User-Name: anonymous@apple.openroaming.net
+  Calling-Station-Id: B6-96-3E-45-76-E1
+
+  Access-Accept:
+  User-Name: 4ce6d90b-7a5a-40e0-84a7-888faba2c0d4@apple.openroaming.net
+  CUI: 020cc1c0-a441-4e01-9f91-e3b65243f932@openroamingapple
+
+
+04 Nov 2023 15:17:36
+  Acces-Request:
+  User-Name: anonymous@clus.openroaming.net
+  Calling-Station-Id: B0-BE-83-65-F4-F7
+
+  Access-Accept:
+  User-Name: testuser@clus.openroaming.net
+  CUI: testuser@clus.openroaming.net
