@@ -76,17 +76,6 @@
   Class: fD/rgwx/aai:16777264
   Class: BIC:FD6949E6CD3876DE907BA3ADE237050D0071C42D839E8A27
 
-
-04 Nov 2023 14:44:31
-  Access-Request
-  User-Name: anonymous@idp.openroaming.net
-  Calling-Station-Id: 02-00-00-00-00-01
-
-  Access-Accept:
-  User-Name: testuser@idp.openroaming.net
-  CUI: testuser@idp.openroaming.net
-
-
 04 Nov 2023 15:16:31
   Access-Request:
   User-Name: anonymous@apple.openroaming.net
@@ -105,27 +94,6 @@
   Access-Accept:
   User-Name: testuser@clus.openroaming.net
   CUI: testuser@clus.openroaming.net
-
-
-04 Nov 2023 15:23:43
-  Access-Request:
-  User-Name: anonymous@idp.openroaming.net
-  Calling-Station-Id: 02-00-00-00-00-01
-
-  Access-Accept:
-  User-Name: testuser@idp.openroaming.net
-  CUI: testuser@idp.openroaming.net
-
-
-04 Nov 2023 15:23:43
-  Access-Request:
-  User-Name: anonymous@idp.openroaming.net
-  Calling-Station-Id: 02-00-00-00-00-01
-
-  Access-Accept:
-  User-Name: testuser@idp.openroaming.net
-  CUI: testuser@idp.openroaming.net
-
 
 04 Nov 2023 15:25:27
   Access-Request:
