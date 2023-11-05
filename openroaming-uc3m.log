@@ -1,0 +1,37 @@
+# Logs from OpenRoaming-UC3M AN (thought the SSID change during the hackathon), collected by Carlos J. Bernardos
+
+Nov 04 20:11:22 acorde radsecproxy[1580]: (1583) radsrv: got Access-Request (id 111) with username: anonymous@apple.openroaming.net from client 0.0.0.0/0 (192.168.88.1)
+Nov 04 20:11:23 acorde radsecproxy[1580]: (13216) Access-Accept for user anonymous@apple.openroaming.net stationid B6-0C-89-5C-98-D4 cui 9kcs7bggb2@privaterelay.appleid.com from dynamic_radsec.apple.openroaming.net to 0.0.0.0/0 (192.168.88.1)
+
+Nov 04 20:11:59 acorde radsecproxy[1580]: (1583) radsrv: got Access-Request (id 122) with username: anonymous@apple.openroaming.net from client 0.0.0.0/0 (192.168.88.1)
+Nov 04 20:11:59 acorde radsecproxy[1580]: (13216) Access-Accept for user anonymous@apple.openroaming.net stationid B6-0C-89-5C-98-D4 cui cjbc@it.uc3m.es from dynamic_radsec.apple.openroaming.net to 0.0.0.0/0 (192.168.88.1)
+
+Nov 04 20:14:31 acorde radsecproxy[1580]: (1583) radsrv: got Access-Request (id 133) with username: anonymous@apple.openroaming.net from client 0.0.0.0/0 (192.168.88.1)
+Nov 04 20:14:31 acorde radsecproxy[1580]: (13216) Access-Accept for user anonymous@apple.openroaming.net stationid B6-0C-89-5C-98-D4 cui 7bebea03-9780-4d7c-b1ad-f8ddac34cc63@openroaminggoogle from dynamic_radsec.apple.openroaming.net to 0.0.0.0/0 (192.168.88.1)
+
+Nov 05 10:04:12 acorde radsecproxy[1478]: (1481) radsrv: got Access-Request (id 46) with username: anonymous@odyssys.net from client 0.0.0.0/0 (192.168.88.1)
+Nov 05 10:04:12 acorde radsecproxy[1478]: (7447) Access-Accept for user anonymous@odyssys.net stationid A4-C3-F0-38-9B-31 from dynamic_radsec.odyssys.net to 0.0.0.0/0 (192.168.88.1)
+
+Nov 05 10:04:32 acorde radsecproxy[1478]: (1481) radsrv: got Access-Request (id 57) with username: anonymous@wba.3af521.net from client 0.0.0.0/0 (192.168.88.1)
+Nov 05 10:04:32 acorde radsecproxy[1478]: (7523) Access-Accept for user anonymous@wba.3af521.net stationid C6-3A-04-7C-DE-DB from dynamic_radsec.wba.3af521.net to 0.0.0.0/0 (192.168.88.1)
+
+Nov 05 10:44:37 acorde radsecproxy[1478]: (1481) radsrv: got Access-Request (id 74) with username: anonymous@wba.3af521.net from client 0.0.0.0/0 (192.168.88.1)
+Nov 05 10:44:37 acorde radsecproxy[1478]: (8958) Access-Accept for user anonymous@wba.3af521.net stationid 9E-DC-B9-7C-D8-A0 from dynamic_radsec.wba.3af521.net to 0.0.0.0/0 (192.168.88.1)
+
+Nov 05 11:01:57 acorde radsecproxy[1478]: (1481) radsrv: got Access-Request (id 92) with username: anonymous@openroaming.goog from client 0.0.0.0/0 (192.168.88.1)
+Nov 05 11:01:57 acorde radsecproxy[1478]: (9384) Access-Accept for user anonymous@openroaming.goog stationid D2-06-E1-79-F7-1A cui u3gBZSZiYqvvRl37ORX_1HxwjFZg-dB8hsbvz8Oeaiv_uzUwo-2a-TKE_-BGKFnQClV6YNCnxnwp0dMVf3NAtd_9 from dynamic_radsec.openroaming.goog to 0.0.0.0/0 (192.168.88.1)
+
+Nov 05 11:06:48 acorde radsecproxy[1478]: (1481) radsrv: got Access-Request (id 103) with username: anonymous@openroaming.goog from client 0.0.0.0/0 (192.168.88.1)
+Nov 05 11:06:48 acorde radsecproxy[1478]: (9384) Access-Accept for user anonymous@openroaming.goog stationid D2-06-E1-79-F7-1A cui 6Qch6kpoAyKZC9CNv-WsElrPxE9MZrPtmt0Emh6Qh6XY7nRhZSWfeD6rtuHoOnoLeDNJyEIA6lA-u5yBl6Ahtthv from dynamic_radsec.openroaming.goog to 0.0.0.0/0 (192.168.88.1)
+
+Nov 05 11:07:36 acorde radsecproxy[1478]: (1481) radsrv: got Access-Request (id 115) with username: anonymous@openroaming.securewifi.io from client 0.0.0.0/0 (192.168.88.1)
+Nov 05 11:07:36 acorde radsecproxy[1478]: (9499) Access-Accept for user anonymous@openroaming.securewifi.io stationid B6-03-15-A3-5A-56 from dynamic_radsec.openroaming.securewifi.io (SUCCESS) to 0.0.0.0/0 (192.168.88.1)
+
+Nov 05 11:09:12 acorde radsecproxy[1478]: (1481) radsrv: got Access-Request (id 127) with username: anonymous@openroaming.goog from client 0.0.0.0/0 (192.168.88.1)
+Nov 05 11:09:12 acorde radsecproxy[1478]: (9384) Access-Accept for user anonymous@openroaming.goog stationid E6-AC-12-A2-86-79 cui hAollRS57X3a2RxuIbMiUAPLkOnfcwKGH_7DxmnFIABH7QHHGXWNyxk7aSVMjgWC85uQNMFcrWIGsxC7J586mWpL from dynamic_radsec.openroaming.goog to 0.0.0.0/0 (192.168.88.1)
+
+Nov 05 11:11:50 acorde radsecproxy[1478]: (1481) radsrv: got Access-Request (id 142) with username: anonymous@openroaming.securewifi.io from client 0.0.0.0/0 (192.168.88.1)
+Nov 05 11:11:50 acorde radsecproxy[1478]: (9499) Access-Accept for user anonymous@openroaming.securewifi.io stationid B6-03-15-A3-5A-56 from dynamic_radsec.openroaming.securewifi.io (SUCCESS) to 0.0.0.0/0 (192.168.88.1)
+
+Nov 05 11:19:42 acorde radsecproxy[1478]: (1481) radsrv: got Access-Request (id 186) with username: anonymous@wba.3af521.net from client 0.0.0.0/0 (192.168.88.1)
+Nov 05 11:19:43 acorde radsecproxy[1478]: (9734) Access-Accept for user anonymous@wba.3af521.net stationid 9E-DC-B9-7C-D8-A0 from dynamic_radsec.wba.3af521.net to 0.0.0.0/0 (192.168.88.1)
