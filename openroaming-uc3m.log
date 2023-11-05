@@ -35,3 +35,12 @@ Nov 05 11:11:50 acorde radsecproxy[1478]: (9499) Access-Accept for user anonymou
 
 Nov 05 11:19:42 acorde radsecproxy[1478]: (1481) radsrv: got Access-Request (id 186) with username: anonymous@wba.3af521.net from client 0.0.0.0/0 (192.168.88.1)
 Nov 05 11:19:43 acorde radsecproxy[1478]: (9734) Access-Accept for user anonymous@wba.3af521.net stationid 9E-DC-B9-7C-D8-A0 from dynamic_radsec.wba.3af521.net to 0.0.0.0/0 (192.168.88.1)
+
+Nov 05 10:04:37 acorde radsecproxy[1478]: (1481) radsrv: got Access-Request (id 66) with username: anonymous@odyssys.net from client 0.0.0.0/0 (192.168.88.1)
+Nov 05 10:04:37 acorde radsecproxy[1478]: (7447) Access-Accept for user anonymous@odyssys.net stationid A4-C3-F0-38-9B-31 from dynamic_radsec.odyssys.net to 0.0.0.0/0 (192.168.88.1)
+
+Nov 05 13:20:29 acorde radsecproxy[1478]: (1481) radsrv: got Access-Request (id 13) with username: anonymous@tokyo.wi2.cityroam.jp from client 0.0.0.0/0 (192.168.88.1)
+Nov 05 13:20:34 acorde radsecproxy[1478]: (13917) Access-Accept for user anonymous@tokyo.wi2.cityroam.jp stationid 88-66-5A-44-4D-16 cui R02NYVS835 from dynamic_radsec.tokyo.wi2.cityroam.jp to 0.0.0.0/0 (192.168.88.1)
+
+Nov 05 13:20:48 acorde radsecproxy[1478]: (1481) radsrv: got Access-Request (id 22) with username: anonymous@openro.am from client 0.0.0.0/0 (192.168.88.1)
+Nov 05 13:20:50 acorde radsecproxy[1478]: (13983) Access-Accept for user anonymous@openro.am stationid 9E-DC-B9-7C-D8-A0 from dynamic_radsec.openro.am to 0.0.0.0/0 (192.168.88.1)
