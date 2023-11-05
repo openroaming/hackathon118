@@ -44,3 +44,6 @@ Nov 05 13:20:34 acorde radsecproxy[1478]: (13917) Access-Accept for user anonymo
 
 Nov 05 13:20:48 acorde radsecproxy[1478]: (1481) radsrv: got Access-Request (id 22) with username: anonymous@openro.am from client 0.0.0.0/0 (192.168.88.1)
 Nov 05 13:20:50 acorde radsecproxy[1478]: (13983) Access-Accept for user anonymous@openro.am stationid 9E-DC-B9-7C-D8-A0 from dynamic_radsec.openro.am to 0.0.0.0/0 (192.168.88.1)
+
+Nov 05 13:40:05 acorde radsecproxy[1478]: (1481) radsrv: got Access-Request (id 90) with username: anonymous@ironwifi.net from client 0.0.0.0/0 (192.168.88.1)
+Nov 05 13:40:05 acorde radsecproxy[1478]: (14954) Access-Accept for user anonymous@ironwifi.net stationid 9E-DC-B9-7C-D8-A0 from dynamic_radsec.ironwifi.net to 0.0.0.0/0 (192.168.88.1)
