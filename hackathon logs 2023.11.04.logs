@@ -200,3 +200,4 @@ Nov 05 09:41:01 ietf118 radsecproxy[6603]: Access-Accept for user anonymous@wba.
 Nov 05 09:49:18 ietf118 radsecproxy[6684]: Access-Accept for user anonymous@wba.3af521.net stationid A4-C3-F0-38-9B-31 from dynamic:wba.3af521.net to ietf118 (31.130.239.31) operator 1Switch
 Nov 05 09:52:33 ietf118 radsecproxy[6684]: Access-Accept for user anonymous@profile.guglielmo.biz stationid 88-66-5A-31-49-61 from dynamic:profile.guglielmo.biz to ietf118 (31.130.239.31) operator 1Switch
 Nov 05 10:10:16 ietf118 radsecproxy[6684]: Access-Accept for user anonymous@openroaming.securewifi.io stationid B6-03-15-A3-5A-56 from dynamic:openroaming.securewifi.io (SUCCESS) to ietf118 (31.130.239.31) operator 1Switch
+Nov 05 12:30:37 ietf118 radsecproxy[7285]: Access-Accept for user anonymous@openro.am stationid 9A-0E-89-CE-36-FE from dynamic:openro.am to ietf118 (31.130.239.31) operator 1Switch
