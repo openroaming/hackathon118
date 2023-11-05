@@ -194,3 +194,9 @@ Access-Accept:
   Class: Diameter/dal-0019.rmr.corp.wayport.net;1699084922;723241;0310410141640351@wlan.mnc410.mcc310.3gppnetwork.org;dal-0019.rmr.corp.wayport.net
   Class: fD/rgwx/aai:16777264
   Class: BIC:FABF0772C912D00C3255103129BC0C333F5A7D65A2C33C64
+
+Nov 05 09:38:01 ietf118 radsecproxy[6603]: Access-Accept for user anonymous@odyssys.net stationid A4-C3-F0-38-9B-31 from dynamic:odyssys.net to ietf118 (158.115.148.241) operator 1Switch
+Nov 05 09:41:01 ietf118 radsecproxy[6603]: Access-Accept for user anonymous@wba.3af521.net stationid A4-C3-F0-38-9B-31 from dynamic:wba.3af521.net to ietf118 (158.115.148.241) operator 1Switch
+Nov 05 09:49:18 ietf118 radsecproxy[6684]: Access-Accept for user anonymous@wba.3af521.net stationid A4-C3-F0-38-9B-31 from dynamic:wba.3af521.net to ietf118 (31.130.239.31) operator 1Switch
+Nov 05 09:52:33 ietf118 radsecproxy[6684]: Access-Accept for user anonymous@profile.guglielmo.biz stationid 88-66-5A-31-49-61 from dynamic:profile.guglielmo.biz to ietf118 (31.130.239.31) operator 1Switch
+Nov 05 10:10:16 ietf118 radsecproxy[6684]: Access-Accept for user anonymous@openroaming.securewifi.io stationid B6-03-15-A3-5A-56 from dynamic:openroaming.securewifi.io (SUCCESS) to ietf118 (31.130.239.31) operator 1Switch
